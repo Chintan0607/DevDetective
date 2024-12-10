@@ -169,4 +169,4 @@ if (localStorage.getItem("dark-mode") === null) {
     }
 }
 
-getUserData(url + "Chintan0607");
+ getUserData(url + "Chintan0607");
